@@ -60,7 +60,7 @@ If you want to build the documentation, you need a few additional tools:
 - [Doxygen](https://www.doxygen.nl/index.html) for building the source-level
   documentation for developers.
 
-By default, the build is configured to create both graphics flavours of the
+By default, the build is configured to create both graphics fl bn nof the
 Orbiter executable (although this can be configured with the ORBITER_GRAPHICS CMake flag):
 - ``orbiter.exe`` is the standalone Orbiter application with built-in DX7 graphics.
 - ``orbiter_ng.exe`` is a launcher for ``./Modules/Server/orbiter.exe`` which is the
